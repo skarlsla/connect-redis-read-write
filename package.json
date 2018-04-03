@@ -1,0 +1,25 @@
+{
+  "name": "connect-redis-read-write",
+  "version": "1.0.1",
+  "description": "read write split",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skarlsla/connect-redis-read-write.git"
+  },
+  "author": "skarl",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/skarlsla/connect-redis-read-write/issues"
+  },
+  "homepage": "https://github.com/skarlsla/connect-redis-read-write#readme"
+}
